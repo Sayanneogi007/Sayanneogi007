@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayan Neogi</h1>
-<h3 align="center">MCA Student | Full-Stack Developer | Python & ML Enthusiast</h3>
+<h3 align="center">MCA Student | Mern-Stack Developer | Python & ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sayan-neogi-5a14a9266" target="_blank">
